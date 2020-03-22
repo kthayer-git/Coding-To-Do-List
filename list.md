@@ -13,4 +13,4 @@ Destinos Website:
 
 ## JavaScript
 - **Reading:** [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/index.html)
-! [Impatient Programmers](/img/Cover-JS for Impatient Programmers.png)
+<img src="/img/cover-impatient-prg.png" width= "100">
