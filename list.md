@@ -7,8 +7,6 @@ Destinos Website:
 - [ ] Create prototype of first page
 - [ ] Make first page responsive 
 
-- [ ]
-
 
 ## CSS
 -  [ ] Review Voice Over accessibility for Mac
