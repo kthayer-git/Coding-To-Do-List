@@ -4,12 +4,14 @@
 <img src="/img/destinos-preview.png" width= "200">
 
 Destinos Website:
-- Create prototype of first page
-- Make first page responsive 
+- [ ] Create prototype of first page
+- [ ] Make first page responsive 
+
+- [ ]
 
 
 ## CSS
-- Review Voice Over accessibility for Mac
+-  [ ] Review Voice Over accessibility for Mac
 
 
 ## JavaScript
