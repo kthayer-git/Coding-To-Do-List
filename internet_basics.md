@@ -22,3 +22,10 @@
 -Pushing local files to the remote GitHub repository:remote-repo.jpg
 ![remote repo](./img/remote-repo.jpg)
 
+### Building a Portfolio Website
+
+- David Castaneda's Portfolio site:
+[David Alfonso Castandeda](https://hireanalf.com/)
+
+- Codecademy article about building a web developer portfolio: (contains lots of links to other resources including website templates to modify and use as samples of my own work.)
+[Guide: How to Build a Web Dev Portfolio](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816)
