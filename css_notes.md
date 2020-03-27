@@ -4,7 +4,7 @@
 
 - **Chaining selectors** have two classes for the same element and look like this: 
 
-    `h1.special` (with dot betweenthem)
+    `h1.special` (with dot between them)
 
 - **Nested selectors** are classes within other classes and are written with a space between the selectors like this: 
 
@@ -16,6 +16,7 @@
     `h1, .special`
 
 ### Cascade Order of link pseudo-classes:
+*mnemonic: LoVe HAte*
  - `:link`
  - `:visited`
  - `:hover`
@@ -102,4 +103,8 @@ width: 100%;
 - `grid-row-start` and `grid-row-end` makes elements span certain rows of the grid
 - `grid-column-start` and `grid-column-end` makes elements span certain columns of the grid
 - `grid-area` is a shorthand for `grid-row-start`, `grid-column-start`, `grid-row-end`, and `grid-column-end`, all in one line
+---
+### Default UI Colors
+![Alt Text](./img/default_ui_colors.png)
+
 ---

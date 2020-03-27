@@ -29,3 +29,7 @@
 
 - Codecademy article about building a web developer portfolio: (contains lots of links to other resources including website templates to modify and use as samples of my own work.)
 [Guide: How to Build a Web Dev Portfolio](https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816)
+
+### Neumorphism
+
+Article: [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)

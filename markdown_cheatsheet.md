@@ -68,3 +68,12 @@ Note: Preceding blank line is necessary.
 - [ ] \(Optional) Mark parentheses to be ignored
 
 
+<span style="color: orange;">text</span>  
+
+<span style="color: orange;">***</span>
+
+***
+
+I am in  <span style="font-family:Papyrus; font-size:1.5em;">LOVE!</span>
+
+In his beard lived three <span style="color:red">cardinals</span>.
