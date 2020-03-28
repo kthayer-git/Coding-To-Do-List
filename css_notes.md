@@ -108,3 +108,5 @@ width: 100%;
 ![Alt Text](./img/default_ui_colors.png)
 
 ---
+### Semantic CSS and HTML
+- authors are encouraged to use values that describe the nature of the content, rather than values that describe the desired presentation of the content.
