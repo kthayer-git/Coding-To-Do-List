@@ -32,7 +32,7 @@
 
 - **Helper Functions:** functions being called within another function using the return value of the first function
 
-- **Function Declaration:** `function` keyword, then name of the function, or its identifier, followed by parentheses and function body, or the block of statements required to perform a specific task, enclosed in the function’s curly brackets, { }
+- **Function Declaration:** `function` keyword, then name of the function, or its identifier, followed by parentheses and function body, or the block of statements required to perform a specific task, enclosed in the function’s curly brackets, `{ }`
 
 - **Function Expression:** declare a variable to make the variable’s name be the name, or identifier, of your function, common practice to use `const` as the keyword to declare the variable, then assign as that variable’s value an anonymous function created by using the `function` keyword followed by a set of parentheses with possible parameters. Then a set of curly braces that contain the function body
 
