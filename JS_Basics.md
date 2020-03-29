@@ -317,3 +317,28 @@ console.log(hello[6]);
 *Example:*
 
 `walkSignal === 'Walk' ? console.log('You may walk!') : console.log('Do not walk!');`
+
+## Loops
+
+### `for` Loop
+
+ - contains three expressions separated by ; inside the parentheses:
+    
+    1. an initialization starts the loop and can also be used to declare the iterator variable.
+    2. a stopping condition is the condition that the iterator variable is evaluated against— if the condition evaluates to true the code block will run, and if it evaluates to false the code will stop.
+    3. an iteration statement is used to update the iterator variable on each loop.
+
+  *Example:*
+   ```
+   for (let x = 1; x < 8; x++) {
+   console.log(x);
+ }
+   // output is
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ ```
