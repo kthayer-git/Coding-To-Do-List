@@ -241,13 +241,54 @@ function power (base, exponent) {
 - `.length` Property that returns the number of items in the array, use dot notation to chain the `.length` property to the array name
 
 - `.push()` Method that adds items to the end of an array, use dot notation to connect to array name, then call it as a function (because it is a built in function) with items to add as arguments, mutates the array by adding elements to it
+  - *Example:* 
+    ```
+     animals.push('chickens', 'cats', 'dogs');
+    ```
 - `.pop()`Method that removes the last item of an array, use dot notation and connect to array name, removes last element of the array and returns it, takes no arguments, mutates the original array by removing one element
+  - *Example:* 
+
+       ```
+       plants.pop();
+       ```
 - `.shift()` Method removes the first item from the array and returns the removed element, mutates the array by removing one element
+  - *Example:* 
+
+       ```
+       array.shift();
+       ```
 - `.unshift()` Method adds the item in its argument to the beginning of the array, mutates the array by adding one element
+
+  - *Example:*  
+      
+      ```
+      array.unshift('newItem');
+      ```
 - `.slice()` Method returns a copy of the array defined by beginning and ending indices, (ending is optional, if no ending is given the rest of the array to end is returned), original array remains unchanged
+- `.splice()` Remove selected group of strings and replace with another string
+    - *Example:* 
+      ```
+      array.splice([x],[y], 'newItem');
+      // where 'x' is the starting index, 'y' is the number of items
+      ```
 - `.indexOf()` Method returns the index of the first element matching the value of the argument, if no matching element is found returns -1 , original array remains unchanged
 - `.lastIndexOf()` Method returns the index of last index matching the value of the argument
 - `.concat()`  Method used to glue arrays together to create a new array, similar to + for strings
+
+- `.join()`  Method creates and returns a new string by concatenating all of the elements in an array
+  - *Example:*
+     ```
+     items.join(''));
+     // where the space between '' will be inserted between array items
+     ```
+
+- replace an item in an array with a different item:
+
+   - *Example:*
+     ```
+     array[x] = 'newItem';
+     // where 'x' is the index of the item to be replaced
+     ```
 
 ### Array Loop
  - Goes over arrays one element at a time by running the counter over the length of the array:
